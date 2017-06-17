@@ -1,0 +1,12 @@
+Package: enigma2-plugin-skins-blue-line-oe
+Version: 1.6
+Section: base
+OE: Enigma2 Skin
+License: open
+Priority: optional
+Architecture: all
+Maintainer: stein17
+Description: Skin Full HD for OpenEight Images by stein17
+Source: http://octagon-forum.eu/
+Homepage: http://octagon-forum.eu/
+
